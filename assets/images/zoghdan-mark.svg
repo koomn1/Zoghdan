@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-label="زغدان">
+  <defs>
+    <linearGradient id="g" x1="25" y1="15" x2="103" y2="112" gradientUnits="userSpaceOnUse"><stop stop-color="#D5B779"/><stop offset="1" stop-color="#9C633D"/></linearGradient>
+  </defs>
+  <path d="M64 5 75 17l16-3 3 16 15 7-6 15 9 13-12 11 1 17-16 3-8 15-14-7-14 7-8-15-16-3 1-17-12-11 9-13-6-15 15-7 3-16 16 3L64 5Z" stroke="url(#g)" stroke-width="3"/>
+  <path d="M64 27c-7 13-23 26-23 43a23 23 0 0 0 46 0c0-17-16-30-23-43Z" fill="#26382D" stroke="url(#g)" stroke-width="3"/>
+  <path d="M64 45c-4 8-13 16-13 25a13 13 0 0 0 26 0c0-9-9-17-13-25Z" fill="url(#g)"/>
+  <path d="M58 91h12" stroke="#FFFDF8" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+</svg>

@@ -1,0 +1,11 @@
+# Local secrets and generated configuration
+config.local.php
+.env
+.env.*
+
+# Backups and exported databases
+*.sql
+*.sql.gz
+*.zip
+*.bak
+*.backup
